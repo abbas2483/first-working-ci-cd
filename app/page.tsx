@@ -18,6 +18,7 @@ export default function Home() {
             cloud technologies. Currently, I'm exploring DevOps tools like
             Jenkins, Docker, PM2, Nginx, and AWS EC2 while developing scalable
             full-stack applications using the MERN stack and Next.js.
+            i am too much into this devops and infra thing
           </p>
 
           <div className="mt-8 grid grid-cols-2 gap-4 text-left">
