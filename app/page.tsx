@@ -55,7 +55,7 @@ export default function Home() {
 
           <div className="mt-10">
             <button className="bg-blue-500 hover:bg-blue-600 transition px-6 py-3 rounded-xl font-semibold">
-              Welcome to My Portfolio
+              Welcome to My Portfolio it's totally running on my own managed server plus i even build the automated ci/cd fro this project 
             </button>
           </div>
         </div>
