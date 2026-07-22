@@ -48,7 +48,7 @@ export default function Home() {
               <h3 className="font-semibold text-blue-400">❤️ Interests</h3>
               <p className="text-gray-300 mt-2">
                 Coding, Open Source, AI Tools, Cloud Computing, and Learning New
-                Technologies.
+                Technologies. now testing automated webhook integarted ci-cd
               </p>
             </div>
           </div>
